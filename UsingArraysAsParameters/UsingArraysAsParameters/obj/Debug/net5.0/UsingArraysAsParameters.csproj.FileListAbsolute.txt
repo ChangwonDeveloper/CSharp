@@ -1,0 +1,16 @@
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\bin\Debug\net5.0\UsingArraysAsParameters.exe
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\bin\Debug\net5.0\UsingArraysAsParameters.deps.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\bin\Debug\net5.0\UsingArraysAsParameters.runtimeconfig.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\bin\Debug\net5.0\UsingArraysAsParameters.runtimeconfig.dev.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\bin\Debug\net5.0\UsingArraysAsParameters.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\bin\Debug\net5.0\UsingArraysAsParameters.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net5.0\UsingArraysAsParameters.csproj.AssemblyReference.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net5.0\UsingArraysAsParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net5.0\UsingArraysAsParameters.AssemblyInfoInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net5.0\UsingArraysAsParameters.AssemblyInfo.cs
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net5.0\UsingArraysAsParameters.csproj.CoreCompileInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net5.0\UsingArraysAsParameters.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net5.0\refint\UsingArraysAsParameters.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net5.0\UsingArraysAsParameters.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net5.0\UsingArraysAsParameters.genruntimeconfig.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net5.0\ref\UsingArraysAsParameters.dll

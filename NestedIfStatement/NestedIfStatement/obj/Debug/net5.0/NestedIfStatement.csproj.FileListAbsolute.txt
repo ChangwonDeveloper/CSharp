@@ -1,0 +1,16 @@
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\bin\Debug\net5.0\NestedIfStatement.exe
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\bin\Debug\net5.0\NestedIfStatement.deps.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\bin\Debug\net5.0\NestedIfStatement.runtimeconfig.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\bin\Debug\net5.0\NestedIfStatement.runtimeconfig.dev.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\bin\Debug\net5.0\NestedIfStatement.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\bin\Debug\net5.0\NestedIfStatement.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\obj\Debug\net5.0\NestedIfStatement.csproj.AssemblyReference.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\obj\Debug\net5.0\NestedIfStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\obj\Debug\net5.0\NestedIfStatement.AssemblyInfoInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\obj\Debug\net5.0\NestedIfStatement.AssemblyInfo.cs
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\obj\Debug\net5.0\NestedIfStatement.csproj.CoreCompileInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\obj\Debug\net5.0\NestedIfStatement.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\obj\Debug\net5.0\refint\NestedIfStatement.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\obj\Debug\net5.0\NestedIfStatement.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\obj\Debug\net5.0\NestedIfStatement.genruntimeconfig.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\NestedIfStatement\NestedIfStatement\obj\Debug\net5.0\ref\NestedIfStatement.dll

@@ -1,0 +1,16 @@
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\bin\Debug\net5.0\ForeachAndSwitchStatement.exe
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\bin\Debug\net5.0\ForeachAndSwitchStatement.deps.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\bin\Debug\net5.0\ForeachAndSwitchStatement.runtimeconfig.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\bin\Debug\net5.0\ForeachAndSwitchStatement.runtimeconfig.dev.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\bin\Debug\net5.0\ForeachAndSwitchStatement.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\bin\Debug\net5.0\ForeachAndSwitchStatement.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\obj\Debug\net5.0\ForeachAndSwitchStatement.csproj.AssemblyReference.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\obj\Debug\net5.0\ForeachAndSwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\obj\Debug\net5.0\ForeachAndSwitchStatement.AssemblyInfoInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\obj\Debug\net5.0\ForeachAndSwitchStatement.AssemblyInfo.cs
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\obj\Debug\net5.0\ForeachAndSwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\obj\Debug\net5.0\ForeachAndSwitchStatement.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\obj\Debug\net5.0\refint\ForeachAndSwitchStatement.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\obj\Debug\net5.0\ForeachAndSwitchStatement.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\obj\Debug\net5.0\ForeachAndSwitchStatement.genruntimeconfig.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ForeachAndSwitchStatement\ForeachAndSwitchStatement\obj\Debug\net5.0\ref\ForeachAndSwitchStatement.dll

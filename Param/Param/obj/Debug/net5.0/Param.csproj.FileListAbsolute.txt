@@ -1,0 +1,16 @@
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\bin\Debug\net5.0\Param.exe
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\bin\Debug\net5.0\Param.deps.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\bin\Debug\net5.0\Param.runtimeconfig.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\bin\Debug\net5.0\Param.runtimeconfig.dev.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\bin\Debug\net5.0\Param.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\bin\Debug\net5.0\Param.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\obj\Debug\net5.0\Param.csproj.AssemblyReference.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\obj\Debug\net5.0\Param.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\obj\Debug\net5.0\Param.AssemblyInfoInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\obj\Debug\net5.0\Param.AssemblyInfo.cs
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\obj\Debug\net5.0\Param.csproj.CoreCompileInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\obj\Debug\net5.0\Param.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\obj\Debug\net5.0\refint\Param.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\obj\Debug\net5.0\Param.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\obj\Debug\net5.0\Param.genruntimeconfig.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\Param\Param\obj\Debug\net5.0\ref\Param.dll

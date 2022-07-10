@@ -1,0 +1,16 @@
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\bin\Debug\net5.0\EnhacnedIfStatement.exe
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\bin\Debug\net5.0\EnhacnedIfStatement.deps.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\bin\Debug\net5.0\EnhacnedIfStatement.runtimeconfig.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\bin\Debug\net5.0\EnhacnedIfStatement.runtimeconfig.dev.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\bin\Debug\net5.0\EnhacnedIfStatement.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\bin\Debug\net5.0\EnhacnedIfStatement.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\obj\Debug\net5.0\EnhacnedIfStatement.csproj.AssemblyReference.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\obj\Debug\net5.0\EnhacnedIfStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\obj\Debug\net5.0\EnhacnedIfStatement.AssemblyInfoInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\obj\Debug\net5.0\EnhacnedIfStatement.AssemblyInfo.cs
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\obj\Debug\net5.0\EnhacnedIfStatement.csproj.CoreCompileInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\obj\Debug\net5.0\EnhacnedIfStatement.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\obj\Debug\net5.0\refint\EnhacnedIfStatement.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\obj\Debug\net5.0\EnhacnedIfStatement.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\obj\Debug\net5.0\EnhacnedIfStatement.genruntimeconfig.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\EnhacnedIfStatement\EnhacnedIfStatement\obj\Debug\net5.0\ref\EnhacnedIfStatement.dll

@@ -1,0 +1,16 @@
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\bin\Debug\net5.0\GenericNonGenericCollection.exe
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\bin\Debug\net5.0\GenericNonGenericCollection.deps.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\bin\Debug\net5.0\GenericNonGenericCollection.runtimeconfig.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\bin\Debug\net5.0\GenericNonGenericCollection.runtimeconfig.dev.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\bin\Debug\net5.0\GenericNonGenericCollection.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\bin\Debug\net5.0\GenericNonGenericCollection.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\obj\Debug\net5.0\GenericNonGenericCollection.csproj.AssemblyReference.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\obj\Debug\net5.0\GenericNonGenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\obj\Debug\net5.0\GenericNonGenericCollection.AssemblyInfoInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\obj\Debug\net5.0\GenericNonGenericCollection.AssemblyInfo.cs
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\obj\Debug\net5.0\GenericNonGenericCollection.csproj.CoreCompileInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\obj\Debug\net5.0\GenericNonGenericCollection.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\obj\Debug\net5.0\refint\GenericNonGenericCollection.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\obj\Debug\net5.0\GenericNonGenericCollection.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\obj\Debug\net5.0\GenericNonGenericCollection.genruntimeconfig.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\GenericNonGenericCollection\GenericNonGenericCollection\obj\Debug\net5.0\ref\GenericNonGenericCollection.dll

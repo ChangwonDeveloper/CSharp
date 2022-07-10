@@ -1,0 +1,16 @@
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\bin\Debug\net5.0\SwitchStatement.exe
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\bin\Debug\net5.0\SwitchStatement.deps.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\bin\Debug\net5.0\SwitchStatement.runtimeconfig.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\bin\Debug\net5.0\SwitchStatement.runtimeconfig.dev.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\bin\Debug\net5.0\SwitchStatement.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\bin\Debug\net5.0\SwitchStatement.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.csproj.AssemblyReference.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.AssemblyInfo.cs
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\obj\Debug\net5.0\refint\SwitchStatement.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.genruntimeconfig.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\SwitchStatement\SwitchStatement\obj\Debug\net5.0\ref\SwitchStatement.dll

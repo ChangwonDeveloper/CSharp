@@ -1,0 +1,16 @@
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\bin\Debug\net5.0\ErorrHnadling.exe
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\bin\Debug\net5.0\ErorrHnadling.deps.json
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\bin\Debug\net5.0\ErorrHnadling.runtimeconfig.json
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\bin\Debug\net5.0\ErorrHnadling.runtimeconfig.dev.json
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\bin\Debug\net5.0\ErorrHnadling.dll
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\bin\Debug\net5.0\ErorrHnadling.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\obj\Debug\net5.0\ErorrHnadling.csproj.AssemblyReference.cache
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\obj\Debug\net5.0\ErorrHnadling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\obj\Debug\net5.0\ErorrHnadling.AssemblyInfoInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\obj\Debug\net5.0\ErorrHnadling.AssemblyInfo.cs
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\obj\Debug\net5.0\ErorrHnadling.csproj.CoreCompileInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\obj\Debug\net5.0\ErorrHnadling.dll
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\obj\Debug\net5.0\refint\ErorrHnadling.dll
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\obj\Debug\net5.0\ErorrHnadling.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\obj\Debug\net5.0\ErorrHnadling.genruntimeconfig.cache
+C:\Users\offic\Desktop\Programming\Udemy\CPP\Personal_Challenge\ErorrHnadling\ErorrHnadling\obj\Debug\net5.0\ref\ErorrHnadling.dll

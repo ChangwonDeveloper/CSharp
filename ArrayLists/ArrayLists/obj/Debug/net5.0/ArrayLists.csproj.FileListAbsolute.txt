@@ -1,0 +1,16 @@
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.exe
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.deps.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.runtimeconfig.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.runtimeconfig.dev.json
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.csproj.AssemblyReference.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.AssemblyInfoInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.AssemblyInfo.cs
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\obj\Debug\net5.0\refint\ArrayLists.dll
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.pdb
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.genruntimeconfig.cache
+C:\Users\offic\Desktop\Programming\Udemy\CSharp\ArrayLists\ArrayLists\obj\Debug\net5.0\ref\ArrayLists.dll
