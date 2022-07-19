@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6v0VxgtWzi4Xsp1HcdE+BFNxwS0AXOY+knGqK8Z6mw0pFtx/oW2GOViD1xM3uofmgjDU+nhoZWeyxa1Jo+VLrw==",
+  "dgSpecHash": "8u7acFM42jm2ugkQrSGJmA76PIIKff4zRpO6ymB0cOio8LbyG+jj6Sxikg5d/ETbW7H2OP71VDu/5EZGBhDNkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\offic\\Desktop\\Programming\\Udemy\\CSharp\\HashTable\\HashTable\\HashTable.csproj",
+  "projectFilePath": "C:\\Programming\\Udemy\\CSharp\\HashTable\\HashTable\\HashTable.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

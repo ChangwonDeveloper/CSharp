@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\offic\\Desktop\\Programming\\Udemy\\CSharp\\HashTable\\HashTable\\HashTable.csproj",
+      "projectUniqueName": "C:\\Programming\\Udemy\\CSharp\\HashTable\\HashTable\\HashTable.csproj",
       "projectName": "HashTable",
-      "projectPath": "C:\\Users\\offic\\Desktop\\Programming\\Udemy\\CSharp\\HashTable\\HashTable\\HashTable.csproj",
+      "projectPath": "C:\\Programming\\Udemy\\CSharp\\HashTable\\HashTable\\HashTable.csproj",
       "packagesPath": "C:\\Users\\offic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\offic\\Desktop\\Programming\\Udemy\\CSharp\\HashTable\\HashTable\\obj\\",
+      "outputPath": "C:\\Programming\\Udemy\\CSharp\\HashTable\\HashTable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

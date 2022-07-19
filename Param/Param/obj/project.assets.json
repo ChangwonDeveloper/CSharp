@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\offic\\Desktop\\Programming\\Udemy\\CSharp\\Param\\Param\\Param.csproj",
+      "projectUniqueName": "C:\\Programming\\Udemy\\CSharp\\Param\\Param\\Param.csproj",
       "projectName": "Param",
-      "projectPath": "C:\\Users\\offic\\Desktop\\Programming\\Udemy\\CSharp\\Param\\Param\\Param.csproj",
+      "projectPath": "C:\\Programming\\Udemy\\CSharp\\Param\\Param\\Param.csproj",
       "packagesPath": "C:\\Users\\offic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\offic\\Desktop\\Programming\\Udemy\\CSharp\\Param\\Param\\obj\\",
+      "outputPath": "C:\\Programming\\Udemy\\CSharp\\Param\\Param\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

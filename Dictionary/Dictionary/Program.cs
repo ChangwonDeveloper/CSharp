@@ -14,8 +14,6 @@ namespace Dictionary
                 {2, "two" },
                 {3, "three" }
             };
-
-
         }
     }
 }
